@@ -7,5 +7,6 @@ namespace HrApp.Data
 {
     public class SeedData
     {
+        // Comment
     }
 }
